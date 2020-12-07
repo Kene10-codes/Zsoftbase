@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+   font-weight: 900;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.input {
+    background-color: gray;
+    border-radius: 10px;
+    
+}
+
+.react-icons {
+    padding-right: 20px;
+   
+}
+
+span {
+    font-size: 14px;
+    padding: 0 0 15px 10px;
+}
+
+.icons {
+    margin-left: 20px;
+    font-size: 35px;
+}
+
